@@ -1,0 +1,34 @@
+.myFirst-section{
+     background-color: blue;
+     display: grid;
+     grid-template-columns: 1fr  1fr 1fr 1fr  1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr ; 
+     gap: 40px;
+     height: 80px;
+} 
+
+#a{
+    background-color: gainsboro;
+}
+#b{
+    background-color: gold;
+}#c{
+    background-color: skyblue;
+}#d{
+    background-color: violet;
+}#e{
+    background-color: tomato;
+}#f{
+    background-color: aquamarine;
+}#g{
+    background-color: gray;
+}#h{
+    background-color: goldenrod;
+}#i{
+    background-color: blueviolet;
+}#j{
+    background-color: whitesmoke;
+}#k{
+    background-color: magenta;
+}#l{
+    background-color: rgb(19, 201, 192);
+}
